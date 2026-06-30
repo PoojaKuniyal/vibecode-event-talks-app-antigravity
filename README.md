@@ -5,6 +5,9 @@ A premium, highly interactive dashboard that tracks Google Cloud BigQuery releas
 Built using **Python Flask** on the back-end and **Vanilla HTML5, CSS3, and JavaScript** on the front-end.
 
 ---
+![BigQuery Twitter](bigquery.png)
+
+---
 
 ## ✨ Features
 
